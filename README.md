@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChatAppKotlin"
         tools:targetApi="31">
-2. Se hace uso de lottie para el diseño de animación de bienvenida
+3. Se hace uso de lottie para el diseño de animación de bienvenida
    https://lottiefiles.com/es/
    se agrega build.gradle a nivel Module en el apartado de dependencies
    dependencies{
